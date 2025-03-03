@@ -1,0 +1,209 @@
+{
+  "heading": "Poetic Devices",
+  "topics": [
+    {
+      "heading": "Subject and Predicate",
+      "questions":[
+        {
+          "questionNo": 1,
+          "question": "In the line, <b>\"The detective's mind was a steel trap,\"</b> which poetic device is used?",
+          "options": [
+            "Simile",
+            "Metaphor",
+            "Hyperbole",
+            "Personification"
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 2,
+          "question": "In the line <b>\"Row, row, row your boat,\"</b> what is the purpose of repeating the word <b>\"row\"</b>?",
+          "options": [
+            "To confuse the reader",
+            "To emphasise the action of rowing",
+            "To describe different types of boats",
+            "To create a rhyme"
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 3,
+          "question": "Which poetic device is being used in the following line?<br><b>\"The wind whispered through the willows\"</b>",
+          "options": [
+            "Simile",
+            "Alliteration",
+            "Metaphor",
+            "Rhetorical Question"
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 4,
+          "question": "Which of the following is the best example of imagery in a poem?",
+          "options": [
+            "\"The stars danced across the midnight sky, winking like silver eyes.\"",
+            "\"Life is a journey, full of twists and turns.\"",
+            "\"Why does the sun rise every day?\"",
+            "\"The bell rang and rang until everyone stood still.\""
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 5,
+          "question": "Which sentence contains a rhetorical question?",
+          "options": [
+            "\"Are the waves crashing loudly on the shore?\"",
+            "\"Can anyone truly hold the wind in their hands?\"",
+            "\"The forest was dark and filled with strange sounds.\"",
+            "\"The flowers were bright and colourful.\""
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 6,
+          "question": "In the line <b>\"The moon was a silver lantern in the sky,\"</b> which poetic device is used?",
+          "options": [
+            "Repetition",
+            "Metaphor",
+            "Alliteration",
+            "Rhetorical Question"
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 7,
+          "question": "Identify the line that uses repetition as a poetic device:",
+          "options": [
+            "The leaves danced in the breeze.",
+            "He ran quickly down the street.",
+            "Rain, rain, go away, come again another day.",
+            "The stars twinkled in the night sky."
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 8,
+          "question": "Which of the following lines is an example of alliteration?",
+          "options": [
+            "\"The cat sat on the mat\"",
+            "\"Sally sells seashells by the seashore\"",
+            "\"He ran quickly to the store\"",
+            "\"They played in the sun\""
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 9,
+          "question": "Identify the metaphor in the sentence <b>\"The world is a stage.\"</b>",
+          "options": [
+            "The world is big",
+            "The world has actors",
+            "The world is being compared to a stage",
+            "The world is round"
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 10,
+          "question": "Which of the following lines uses imagery to create a vivid picture in the reader's mind?",
+          "options": [
+            "\"The sky is blue\"",
+            "\"The sun was a golden ball of fire\"",
+            "\"It is a sunny day\"",
+            "\"He is very tall\""
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 11,
+          "question": "In the first stanza, what do we learn about the poet's situation?",
+          "options": [
+            "He is lost in the mountains",
+            "He is wandering alone and comes across daffodils",
+            "He is sitting by a lake writing poetry",
+            "He is dancing with friends in a field"
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 12,
+          "question": "In the fourth verse, the phrase <b>\"which is the bliss of solitude\"</b> signifies?",
+          "options": [
+            "The poet enjoys being alone more than being with people",
+            "Memories become most valuable during times of solitude",
+            "The \"inward eye\" of memory brings joy when one is alone",
+            "Daffodils only grow in isolated places"
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 13,
+          "question": "What are the final two lines of the poem telling the reader?",
+          "options": [
+            "The poet wishes to visit the daffodils again",
+            "The poet's heart becomes happy and figuratively dances with the remembered daffodils",
+            "The poet has planted daffodils in his garden",
+            "The poet prefers dancing to writing poetry"
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 14,
+          "question": "Which poetic device is being used when the poet compares Stars to daffodils in the line: <b>\"Continuous as the stars that shine And twinkle on the Milky Way\"</b>?",
+          "options": [
+            "Metaphor",
+            "Personification",
+            "Simile",
+            "Hyperbole"
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 15,
+          "question": "What poetic device is primarily used to convey the image of a field filled with daffodils?",
+          "options": [
+            "Exaggeration (hyperbole)",
+            "Imagery",
+            "Rhetorical Questions",
+            "Metaphor"
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 16,
+          "question": "Which line contains an example of alliteration?",
+          "options": [
+            "\"I wandered lonely as a cloud\"",
+            "\"Beside the lake, beneath the trees\"",
+            "\"They stretched in never-ending line\"",
+            "\"And then my heart with pleasure fills\""
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 17,
+          "question": "In the last stanza, what metaphor does the poet use for thinking deeply?",
+          "options": [
+            "\"In vacant or in pensive mood\"",
+            "\"They flash upon that inward eye\"",
+            "\"Which is the bliss of solitude\"",
+            "\"And dances with the daffodils\""
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 18,
+          "question": "What type of imagery is most strongly used in the second stanza?",
+          "options": [
+            "Sound",
+            "Touch",
+            "Visual",
+            "Taste"
+          ],
+          "answer": 2
+        }
+      ]
+      
+    }
+  ]
+}

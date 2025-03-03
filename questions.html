@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Questions</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" href="styles.css">
+  <link rel="icon" type="image/x-icon" href="Logo_last.png">
+  <script src="./questions.js" defer></script>
+  <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.7.0/dist/confetti.browser.min.js"></script>
+
+</head>
+<style>
+  #question {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 80%;
+  color: black;
+  font-size: 1rem;
+  text-align: center;
+  border-radius: 5px;
+  font-weight: 500;
+  font-size: larger;
+}
+</style>
+<body>
+  <!-- <audio id="cheers">
+    <source src="cheers.mp3" type="audio/mpeg">
+  </audio> -->
+  <!-- <audio id="points" src="Points.mp3"></audio>
+  <audio id="fail" src="fail.mp3"></audio> -->
+  <audio id="submit-sound" src="./assests/sounds/submit.mp3"></audio>
+  <header class="header">
+    <img src="./assests/logo/Logo.png" alt="Logo" class="logo">
+    <span><img src="./assests/logo/header.png" alt="Header" class="header-image"></span>
+  </header>
+  <main class="container">
+    <h1 id="heading" class="text-center"></h1>
+    <div id="buttonContainer" class="text-center"></div>
+    <div style="text-align: center; margin: 10px;">
+    <button class="modal-btn btn " data-toggle="modal" data-target="#storyModal">Click here to read paragraph</button>
+  </div>
+    <div class="row maindiv">
+      <!-- <div class="col-lg-1 col-md-1 col-sm-1 col-xs-1 numdiv">
+        <p id="numdiv"></p>
+      </div> -->
+      <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 imgdiv" id="picdiv">
+        <!-- <img id="math_ques" src="Math Question.jpg" class="img-responsive"> -->
+        <div id="question"></div>
+      </div>
+      <div id="questiondiv" class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+        
+        <br>
+        <div class="menu" id="head">
+          <ul id="options"></ul>
+        </div>
+        <button id="subbtn" class="btn btn-success" onclick="checkAnswer()">Submit Answer</button>
+        <button id="nextbtn" class="btn btn-primary" onclick="newques()" style="display:none">Next</button>
+        <p id="result"></p>
+      </div>
+    </div>
+  </main>
+
+  <!-- Modal -->
+  <div id="storyModal" class="modal fade" role="dialog">
+    <div class="modal-dialog">
+      <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-header">
+          <h3 class="modal-title">
+          </h3></div>
+        <div class="modal-body">
+          <p></p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+</body>
+</html>
